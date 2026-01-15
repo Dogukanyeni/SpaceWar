@@ -1,0 +1,17 @@
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\bin\Debug\WarSpace.exe.config
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\bin\Debug\WarSpace.exe
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\bin\Debug\WarSpace.pdb
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\obj\Debug\WarSpace.csproj.AssemblyReference.cache
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\obj\Debug\WarSpace.Properties.Resources.resources
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\obj\Debug\WarSpace.csproj.GenerateResource.cache
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\obj\Debug\WarSpace.csproj.CoreCompileInputs.cache
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\obj\Debug\WarSpace.exe
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\obj\Debug\WarSpace.pdb
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\bin\Debug\meteor.png
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\bin\Debug\background.png
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\bin\Debug\health.png
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\bin\Debug\basicEnemy.png
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\bin\Debug\bossEnemy.png
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\bin\Debug\fastEnemy.png
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\bin\Debug\spaceship.png
+C:\Users\doguk\OneDrive\Masaüstü\Kocaeli Universitiy_Homeworks\pro_labIII\WarSpace\WarSpace\bin\Debug\strongEnemy.png
